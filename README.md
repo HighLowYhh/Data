@@ -14,4 +14,6 @@ Maidata Download:
 >> [Only blackground](ChangeMai/NoOneSquareSelf.zip) ← click download  
 >> [include PV](https://github.com/HighLowYhh/Data/releases/download/1.0/NoOneSquareSelfPV.zip) ← click download
 
-
+> ループザルーム(Selfmade): 
+>> [Only blackground](ChangeMai/LoopingTheRoomNewSelf.zip) ← click download  
+>> [include PV](https://github.com/HighLowYhh/Data/releases/download/1.0/LoopingTheRoomNewSelfPV.zip) ← click download
