@@ -22,4 +22,4 @@ Maidata Download:
 >> [Only blackground](ChangeMai/LostUmbrellaSelf.zip) ← click download
 
 > 六兆年と一夜物語[DX] Re:Master(Append): 
->> [Only PV](ChangeMai/SixTrillionYearsRemasterSelfPVz.zip) ← click download  
+>> [Only PV](ChangeMai/SixTrillionYearsRemasterSelfPV.zip) ← click download  
